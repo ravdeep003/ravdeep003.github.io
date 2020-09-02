@@ -2,6 +2,7 @@
 title: Importing records into MongoDB
 layout: single
 classes: wide
+comments: true
 ---
 
 In this tutorial, I will demonstrate how we can use `mongoimport` to quickly add records(or documents) into `MongoDB` from JSON or CSV file. We will walk through different structures of file to import documents from.
